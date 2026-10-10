@@ -1,0 +1,66 @@
+
+<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Данил Растрыгин: Junior Project Manager / координатор проектов, Краснодар. Резюме и итоговый проект."><title>Данил Растрыгин — Junior Project Manager</title>
+<style>
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);--bg:#f6f7f9;--card:#fff;--tx:#1b2430;--mut:#5d6b7c;--ac:#1f3a5f;--acl:#e7ecf3;--bd:#dfe4ea}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#12161c;--card:#1b222b;--tx:#e8edf3;--mut:#9aa7b6;--ac:#8fb4e8;--acl:#25324a;--bd:#2c3744}}
+:root[data-theme="dark"]{--bg:#12161c;--card:#1b222b;--tx:#e8edf3;--mut:#9aa7b6;--ac:#8fb4e8;--acl:#25324a;--bd:#2c3744}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 -apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.w{max-width:860px;margin:0 auto;padding:20px 16px 48px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:20px;margin-top:16px}
+h1{margin:0;font-size:30px;line-height:1.15}h2{margin:0 0 12px;font-size:19px;color:var(--ac)}h3{margin:0;font-size:16px}
+.role{font-size:18px;font-weight:600;color:var(--ac);margin:4px 0 6px}.mut{color:var(--mut);font-size:14px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:16px 0}
+.st{background:var(--acl);border-radius:12px;padding:12px}.st b{display:block;font-size:22px;color:var(--ac);line-height:1.2}.st span{font-size:13px;color:var(--mut)}
+.btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+button,a.b{font:inherit;font-weight:600;border:0;border-radius:10px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.p{background:var(--ac);color:var(--bg)}.s{background:var(--acl);color:var(--ac)}
+ul{margin:6px 0 0;padding-left:20px}li{margin:3px 0}
+.chips{display:flex;flex-wrap:wrap;gap:8px}.chips span{background:var(--acl);color:var(--ac);border-radius:999px;padding:5px 12px;font-size:14px;font-weight:600}
+.job{padding:12px 0;border-top:1px solid var(--bd)}.job:first-of-type{border-top:0;padding-top:0}
+.job .h{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+img{max-width:100%;height:auto;border-radius:10px;border:1px solid var(--bd)}
+.cert{display:grid;grid-template-columns:minmax(0,260px) 1fr;gap:18px;align-items:start}@media(max-width:640px){.cert{grid-template-columns:1fr}}
+#note{display:none}
+</style></head><body><div class="w">
+<div class="card" style="margin-top:0">
+<h1>Растрыгин Данил</h1><div class="role">Junior Project Manager / Координатор проектов</div>
+<div class="mut">Краснодар · готов к офису, гибриду и удалёнке · гражданство Казахстана, ВНЖ РФ, оформление по ТК РФ</div>
+<div class="stats">
+<div class="st"><b>3+ года</b><span>розница, e-commerce, B2B-продажи</span></div>
+<div class="st"><b>Kaspi.kz с нуля</b><span>запустил канал продаж компании</span></div>
+<div class="st"><b>3 B2B-клиента</b><span>HoReCa, холодные звонки и КП</span></div>
+<div class="st"><b>6 месяцев</b><span>до повышения до старшего менеджера</span></div>
+</div>
+<div class="btns"><a class="b p" href="tel:+79933087712">Позвонить</a><a class="b s" href="mailto:drastrygin3@gmail.com">Написать</a>
+<a class="b s" href="resume-rastrygin-danil.pdf" download>Скачать резюме (PDF)</a><a class="b p" href="project-rastrygin-danil.docx" download>Скачать итоговый проект (DOCX)</a></div>
+
+<div class="mut" style="margin-top:10px">+7 (993) 308-77-12 · drastrygin3@gmail.com</div>
+</div>
+
+<div class="card"><h2>Что важно знать рекрутеру</h2><ul>
+<li>Переход из продаж и операционной работы в проектное управление: клиенты, сделки, сроки, учёт, обучение людей.</li>
+<li>Завершил программу «Менеджер проектов» (Skillbox, 365 акад. часов), итоговый проект доступен для скачивания выше.</li>
+<li>Работал в Bitrix24 и 1С, вёл карточки товаров на Ozon и Kaspi.kz, запускал рекламу в Яндекс Директ.</li>
+<li>Ищу позицию в компании, где можно расти в проектном управлении.</li></ul></div>
+
+<div class="card"><h2>Навыки</h2><div class="chips"><span>Планирование и декомпозиция</span><span>MoSCoW, приоритизация</span><span>Требования и ТЗ</span><span>Реестр рисков</span><span>Коммуникации и стейкхолдеры</span><span>Бюджет, ROI, EBITDA</span><span>Закупка подрядчиков</span><span>Bitrix24</span><span>1С</span><span>Ozon, Kaspi.kz</span><span>Яндекс Директ, VK Ads</span><span>Microsoft Office, Google Workspace</span></div></div>
+
+<div class="card"><h2>Опыт работы</h2>
+<div class="job"><div class="h"><h3>Армада · менеджер по продажам</h3><span class="mut">июль 2024 – июнь 2026</span></div><div class="mut">Розничная сеть и интернет-магазин, Краснодар</div><ul><li>Участвовал в открытии нового магазина в Горловке</li><li>Вёл карточки товаров на Ozon, прайс-листы и каталоги; складской учёт и инвентаризации</li><li>Участвовал в продвижении через Яндекс Директ</li></ul></div>
+<div class="job"><div class="h"><h3>ТОО «Инжу Кст» · менеджер</h3><span class="mut">ноябрь 2023 – июнь 2024</span></div><div class="mut">Бытовая техника и профессиональное оборудование, Костанай</div><ul><li>Запустил с нуля канал продаж на Kaspi.kz</li><li>Привлёк три компании HoReCa к долгосрочному сотрудничеству: холодные звонки, переговоры, КП, презентации</li></ul></div>
+<div class="job"><div class="h"><h3>Белый Ветер KZ · старший менеджер</h3><span class="mut">октябрь 2022 – июль 2023</span></div><div class="mut">Розничная сеть электроники и бытовой техники</div><ul><li>Повышен до старшего менеджера через 6 месяцев; оперативно управлял магазином, обучал сотрудников</li><li>Вёл клиентов и сделки в Bitrix24; отвечал за кассу, ТМЦ и складские остатки</li><li>Привлёк новую компанию к долгосрочному сотрудничеству как корпоративный менеджер</li></ul></div></div>
+
+<div class="card"><h2>Итоговый проект: вывод мобильного фитнес-приложения (MVP) на рынок</h2>
+<p style="margin-top:0">Учебный кейс Skillbox: 6 месяцев, ограниченный бюджет, нет штатного дизайнера, нужно показать лучшую рентабельность, чем у двух параллельных проектов компании.</p>
+<div class="stats"><div class="st"><b>6 мес.</b><span>4 этапа, 10 контрольных точек</span></div><div class="st"><b>335–620 тыс. руб.</b><span>готовая библиотека вместо 840 тыс. – 2,03 млн руб.</span></div><div class="st"><b>−10,2%</b><span>EBITDA margin MVP на 6 мес.; ROI &gt; 30% проверяется после запуска</span></div></div>
+<ul><li>Цель, метрики (ROI, CAC, ARPU, Retention, CSAT) и критерии выполнения задач</li><li>Требования, MoSCoW и модель взвешенных критериев с расчётом приоритетов</li><li>Реестр рисков, команда, коммуникации, мотивация</li><li>ТЗ внешнему дизайнеру и процесс закупки, kick-off презентация</li><li>Экономика MVP, тестирование, пилот, SLA/OLA и передача в поддержку</li></ul>
+<div class="btns"><a class="b p" href="project-rastrygin-danil.docx" download>Скачать проект (DOCX)</a></div></div>
+
+<div class="card"><h2>Образование и сертификат</h2><div class="cert"><img alt="Сертификат Skillbox: Менеджер проектов" src="cert.jpg">
+<div><h3>Skillbox: «Менеджер проектов»</h3><p class="mut" style="margin:4px 0 10px">Дополнительная образовательная программа, 365 академических часов. Сертификат № SKB0504402 от 21.09.2026. ЧОУ ДПО «Образовательные технологии «Скилбокс (Коробка навыков)»».</p>
+<h3>Высшее образование</h3><p class="mut" style="margin:4px 0 0">Челябинский государственный университет (Костанайский филиал), бакалавриат, экономический факультет, менеджмент, 2022.</p></div></div></div>
+</div>
+</body></html>
